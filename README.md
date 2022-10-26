@@ -2,7 +2,7 @@ This letter is written after the course misy225-22f
 I think it is really a good course  
 I've learnt a lot  
 And I've already uploda all my code to my github repo  
-but I keep it private :)
+but I keep it private :)  
 I think I will go over it for quite a lot of times
 And the course also rise my interest in Python
 Respect !
